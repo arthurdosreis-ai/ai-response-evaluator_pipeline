@@ -1,0 +1,20 @@
+[
+    {
+        "prompt": "Why does the body have different smells?",
+        "score_A": {
+            "relevance": 1,
+            "clarity": 1,
+            "completeness": 1
+        },
+        "score_B": {
+            "relevance": 2,
+            "clarity": 2,
+            "completeness": 2
+        },
+        "total_A": 3,
+        "total_B": 6,
+        "winner_auto": "B",
+        "human_choice": "B",
+        "agreement": true
+    }
+]
