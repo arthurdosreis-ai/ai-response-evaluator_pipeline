@@ -23,3 +23,23 @@ More than just code, this project reflects:
 
 ## Outcome
 A working prototype that simulates how AI responses can be evaluated, compared, and analyzed — similar to workflows used in data annotation and response evaluation tasks.
+
+## How to run
+
+1. Open the notebook  
+2. Run all cells  
+3. The script will generate results.json  
+
+## Project Structure
+
+- ai-response-evaluator.ipynb  
+- results.json  
+
+## Example Output
+
+The results.json file includes:
+
+- scores for each response (relevance, clarity, completeness)  
+- total scores  
+- automatic winner (winner_auto)  
+- human comparison (agreement
